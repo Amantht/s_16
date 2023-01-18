@@ -1,4 +1,59 @@
-.App {
+.ex1
+{border: 2px solid  red;
+margin-top:20%;
+margin-bottom:20%;
+margin-left:40%;
+margin-right:40%;
+text-align: center;
+line-height: 0%;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #40ddf8;
+  min-height: 85vh;
+  display: flexbox;
+  /* align-items: center; */
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+.App-login {
+  background-color: #f29e1f;
+  border: 2px solid  black;
+ min-width: 350px;
+ min-height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+.t1{
+  border: 2px solid  red;
+}
+.login{
+  background-color: orange;
+  border: 2px solid  black;
+  min-height: 50vh;
+  min-width: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +90,15 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
+/* 
+.ex1
+{border: 2px solid  red;
+margin-top:20%;
+margin-bottom:20%;
+margin-left:40%;
+margin-right:40%;
+text-align: center;
+line-height: 0%;
+} */
